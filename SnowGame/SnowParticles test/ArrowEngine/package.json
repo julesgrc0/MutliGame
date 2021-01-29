@@ -1,0 +1,8 @@
+{
+    "version": "0.0.0",
+    "name": "arrow-engine",
+    "description": "ArrowEngine",
+    "dependencies": {
+      "typescript": "4.1.2"
+    }
+  }

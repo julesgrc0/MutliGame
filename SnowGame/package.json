@@ -1,0 +1,25 @@
+{
+  "name": "snowgame",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "bin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.9"
+  },
+  "pkg": {
+    "targets": "node12-win-x64",
+    "scripts": "index.js",
+    "assets": "view/index.html"
+  }
+}

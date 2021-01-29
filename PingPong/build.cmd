@@ -1,0 +1,1 @@
+copy /b "C:\Program Files\LOVE\love.exe"+game.zip game.exe
